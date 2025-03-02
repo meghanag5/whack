@@ -1,0 +1,1 @@
+SELECT * FROM crime_data.crime_stats;
